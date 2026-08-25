@@ -4,15 +4,6 @@
 
 <br>
 
-<!-- Spotify tocando agora -->
-<div align="center">
-  <a href="https://open.spotify.com/user/31cm7xkz777b5vfrlrhfgivo6vza" target="_blank">
-    <img src="https://spotify-github-profile.kittinan.net/api/view?uid=31cm7xkz777b5vfrlrhfgivo6vza&cover_image=true&theme=default&show_offline=true&background_color=0D0D0D&interchange=false&bar_color=FFD700&bar_color_cover=false" alt="Spotify tocando agora" width="400" />
-  </a>
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Caetano1224&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&ring_color=FFD700&locale=pt-br" height="165" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caetano1224&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFD700&text_color=FFFFFF&locale=pt-br" height="165" alt="Linguagens mais usadas" />
@@ -56,14 +47,6 @@
 
 ---
 
-### 📈 Atividade de Contribuição
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caetano1224&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=FFD700&line=FFD700&point=FFFFFF&area=true" width="100%" alt="Gráfico de contribuições" />
-</div>
-
----
-
 ### 📫 Conexões
 
 <p align="center">
@@ -89,7 +72,6 @@
 
 <br>
 
-<!-- Animação da cobra (versão pública que funciona) -->
 <div align="center">
   <img data-importer="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobra" />
 </div>
