@@ -1,93 +1,105 @@
-<h2 align="left">
-  Hi 👋! My name is <strong>Royal</strong> and I'm a Founder, Tech Entrepreneur & Developer from Taubaté, SP — Brazil.
-</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Royal;CEO+%26+Founder+%7C+AproveVest;Fundador+da+Realtech;Building+the+future..." alt="Typing SVG" />
+</div>
 
-<p align="left">
-  🚀 Founder of <b>Realtech</b> (tech store)<br>
-  🎓 CEO & Co-founder of <b>AproveVest</b> (EdTech for vestibular & competitions)<br>
-  📚 Student at ETEC Dr. Geraldo José Rodrigues Alckmin<br>
-  🐧 Daily driver: <b>Arch Linux (CachyOS)</b>
-</p>
+<br>
 
-###
+<!-- Spotify Now Playing -->
+<div align="center">
+  <a href="https://open.spotify.com/user/SEU_USER_ID_AQUI" target="_blank">
+    <img src="https://spotify-github-profile.kittinan.net/api/view?uid=SEU_USER_ID_AQUI&cover_image=true&theme=default&show_offline=true&background_color=0D0D0D&interchange=false&bar_color=FFD700&bar_color_cover=false" alt="Spotify Now Playing" width="400" />
+  </a>
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Caetano1224/Caetano1224/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/Caetano1224/Caetano1224/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Caetano1224&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&ring_color=FFD700&locale=pt-br" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caetano1224&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFD700&text_color=FFFFFF&locale=pt-br" height="165" alt="Top Languages" />
 </div>
 
-###
+<br>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
-
-###
-
-**🛠️ Tech Stack**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" title="JavaScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" title="TypeScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" title="React" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js" title="Next.js" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" title="HTML5" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" title="CSS3" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" title="Python" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="C#" title="C#" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" title="PostgreSQL" />
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VS Code" title="VS Code" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" title="Git" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" title="GitHub" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux" title="Linux" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Caetano1224&theme=dark&background=0D0D0D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=AAAAAA&sideNums=FFFFFF" alt="GitHub Streak" />
 </div>
 
-###
+<br>
 
-**🌱 Currently working on**
+### ⚡ Sobre mim
 
-- Building **AproveVest**: adaptive mock exams with AI, essay correction, gamification & teacher marketplace  
-- Developing **AproveStickers** — World Cup 2026 stickers app  
-- Exploring AI agents infrastructure for internal automation  
-- Growing **Realtech** (physical + online tech store)
+```diff
++ Fundador da Realtech — loja de tecnologia em Taubaté/SP
++ CEO & Co-fundador da AproveVest — EdTech para vestibular e concursos
++ Estudante na ETEC Dr. Geraldo José Rodrigues Alckmin
++ Arch Linux (CachyOS) no dia a dia
+```
 
-###
+---
 
-**📫 Connect with me**
+### 🛠️ Stack Tecnológica
 
-<div align="left">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,python,cs,postgres,vscode,git,github,linux&theme=dark" />
+</p>
+
+---
+
+### 🔥 Em foco no momento
+
+| Projeto              | Status              | Descrição                                                                 |
+|----------------------|---------------------|---------------------------------------------------------------------------|
+| **AproveVest**       | 🔥 Em desenvolvimento | Simulados adaptativos com IA, correção de redação, gamificação e marketplace de professores |
+| **AproveStickers**   | 🚧 Em construção    | App de figurinhas da Copa do Mundo 2026                                   |
+| **Agentes de IA**    | 🔬 Explorando       | Infraestrutura de agentes para automação interna                          |
+| **Realtech**         | 📈 Crescendo        | Loja física + e-commerce de tecnologia                                    |
+
+---
+
+### 📈 Atividade de Contribuição
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caetano1224&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=FFD700&line=FFD700&point=FFFFFF&area=true" width="100%" alt="Contribution Graph" />
+</div>
+
+---
+
+### 📫 Conexões
+
+<p align="center">
   <a href="https://youtube.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-0D0D0D?style=for-the-badge&logo=youtube&logoColor=FFD700" />
   </a>
   <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FFD700" />
   </a>
   <a href="https://twitch.tv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" />
+    <img src="https://img.shields.io/badge/Twitch-0D0D0D?style=for-the-badge&logo=twitch&logoColor=FFD700" />
   </a>
   <a href="https://discord.gg/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-0D0D0D?style=for-the-badge&logo=discord&logoColor=FFD700" />
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FFD700" />
   </a>
   <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
   </a>
+</p>
+
+<br>
+
+<!-- Snake Animation (versão pública que funciona) -->
+<div align="center">
+  <img data-importer="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-###
+<br>
 
-<br clear="both">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Caetano1224&style=for-the-badge&color=FFD700&label=Profile+Views&labelColor=0D0D0D" alt="Profile views" />
+</p>
 
-<img src="https://raw.githubusercontent.com/Caetano1224/Caetano1224/snake-output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <strong>“Construindo o futuro, um commit de cada vez.”</strong>
+</p>
