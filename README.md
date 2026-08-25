@@ -1,98 +1,208 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Royal;CEO+%26+Founder+%7C+AproveVest;Fundador+da+Realtech;Building+the+future..." alt="Typing SVG" />
-</div>
+GitSkins
+Caetano1224
+·
+Marca Pessoal
+·
+GitHub
 
-<br>
+Fluxo ao vivo
+Copy Markdown
+Publique PR
 
-<!-- Spotify Now Playing -->
-<div align="center">
-  <a href="https://open.spotify.com/user/31cm7xkz777b5vfrlrhfgivo6vza" target="_blank">
-    <img src="https://spotify-github-profile.kittinan.net/api/view?uid=SEU_USER_ID_AQUI&cover_image=true&theme=default&show_offline=true&background_color=0D0D0D&interchange=false&bar_color=FFD700&bar_color_cover=false" alt="Spotify Now Playing" width="400" />
-  </a>
-</div>
+Criar rascunho
+Perfil
+Visuais
+Links
+Nome de usuário do GitHub
+Caetano1224
+Logotipos da linguagemDetectado no GitHub. Remova as que não quiser.
+Python×C×JavaScript×CSS×Shell×
+Modelos de início rápido
+Premium
+Vitrine
+O perfil inteiro, com um clique
 
-<br>
+Pronto para recrutadores
+Varredura rápida otimizada para contratação
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Caetano1224/Caetano1224/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&bg_color=0D0D0D&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&ring_color=FFD700" height="165" />
-  <img src="https://raw.githubusercontent.com/Caetano1224/Caetano1224/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=340&langs_count=6&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFD700&text_color=FFFFFF" height="165" />
-</div>
+Código aberto
+Credibilidade do mantenedor
+Premium
+Terminal
+O visual viral neofetch
+Premium
+Cinematográfico
+Widgets animados, movimento completo
+Premium
+Perfil do Wow
+Marca de palavra 3D + retrato ASCII
+Premium
+Space Shooter
+Suas contribuições viram um jogo
 
-<br>
+Perfil de assinatura
+O README em estilo de referência completo
 
-### ⚡ Sobre mim
+Estatísticas do Personagem
+Avatar original + sinal de perfil completo
+Alvo atual
+Caetano1224 / README.md
+Posicionamento memorável do desenvolvedor
 
-```diff
-+ Fundador da Realtech — loja de tecnologia em Taubaté/SP
-+ CEO & Co-fundador da AproveVest — EdTech para vestibular e concursos
-+ Estudante na ETEC Dr. Geraldo José Rodrigues Alckmin
-+ Arch Linux (CachyOS) no dia a dia
-```
+Fontes de varredura de IA
+Fonte do perfil
+Perfil público do GitHub de Caetano1224
+Alvo narrativo
+Marca Pessoal
+Inferência de papéis
+Engenheiro Full-Stack
+Prova do projeto
+Repositórios fixados, estrelas, idiomas, descrições
+Adicionar visuais animados no Advanced Studio
+Xadrez, Space Shooter, Snake Trail, Erased, 3D Wordmark e ASCII Portrait estão prontos para adicionar ao seu README.
+Biblioteca visual aberta
+Prévia do README
+Editando: Cabeçalho
+Prévia
+Visualização do GitHub
 
----
+Markdown
+# Caetano1224
 
-### 🛠️ Stack Tecnológica
+> Memorable developer positioning.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,python,cs,postgres,vscode,git,github,linux&theme=dark" />
-</p>
+## Header
 
----
-
-### 🔥 Em foco no momento
-
-| Projeto              | Status              | Descrição                                                                 |
-|----------------------|---------------------|---------------------------------------------------------------------------|
-| **AproveVest**       | 🔥 Em desenvolvimento | Simulados adaptativos com IA, correção de redação, gamificação e marketplace de professores |
-| **AproveStickers**   | 🚧 Em construção    | App de figurinhas da Copa do Mundo 2026                                   |
-| **Agentes de IA**    | 🔬 Explorando       | Infraestrutura de agentes para automação interna                          |
-| **Realtech**         | 📈 Crescendo        | Loja física + e-commerce de tecnologia                                    |
-
----
-
-### 📈 Atividade de Contribuição
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caetano1224&theme=github-dark&hide_border=true&bg_color=0D0D0D&color=FFD700&line=FFD700&point=FFFFFF&area=true" width="100%" alt="Contribution Graph" />
-</div>
-
----
-
-### 📫 Conexões
-
-<p align="center">
-  <a href="https://youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-0D0D0D?style=for-the-badge&logo=youtube&logoColor=FFD700" />
-  </a>
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FFD700" />
-  </a>
-  <a href="https://twitch.tv/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-0D0D0D?style=for-the-badge&logo=twitch&logoColor=FFD700" />
-  </a>
-  <a href="https://discord.gg/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-0D0D0D?style=for-the-badge&logo=discord&logoColor=FFD700" />
-  </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FFD700" />
-  </a>
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
-  </a>
-</p>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Caetano1224/Caetano1224/snake-output/snake.svg" alt="Snake animation" />
-</div>
-
-<br>
+Hi, I'm **Caetano1224**. This README shares what I'm building, the tools I use, and the work I'm proud of.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Caetano1224&style=for-the-badge&color=FFD700&label=Profile+Views&labelColor=0D0D0D" alt="Profile views" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Caetano1224&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=Caetano1224&theme=github-dark" alt="Caetano1224 hero section" />
+  </picture>
 </p>
+## Heatmap
+
+## GitHub Stats
 
 <p align="center">
-  <strong>“Construindo o futuro, um commit de cada vez.”</strong>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Caetano1224&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=Caetano1224&theme=github-dark" alt="Caetano1224 stats section" />
+  </picture>
 </p>
+## Projects
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Caetano1224&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=Caetano1224&theme=github-dark" alt="Caetano1224 projects section" />
+  </picture>
+</p>
+## Connect
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Caetano1224&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=Caetano1224&theme=github-dark" alt="Caetano1224 social section" />
+  </picture>
+</p>
+Conteúdo
+Estilo
+Agente
+Modo de draft livre
+Seu README básico é exportável.
+Atualização
+Grátis
+1 rascunho de conta
+Prós
+Exportação premium
+Seção Selecionada
+Cabeçalho
+Cria a primeira impressão: identidade, papel e introdução visual.
+
+Incluído no README
+Ajuste essa seção
+Ordem, controles e visuais
+Meta do README
+
+Seja contratado
+Caminho de prova e contato amigável para recrutadores
+
+Código Aberto
+Credibilidade do mantenedor e clareza dos colaboradores
+
+Freelancer
+Serviços, resultados e conversão
+
+Indie Hacker
+Produtos, lançamentos e impulso dos construtores
+
+Estudante
+Velocidade de aprendizado e potencial de projeto
+
+Fundador
+Visão do produto e propriedade técnica
+
+Marca Pessoal
+Posicionamento memorável do desenvolvedor
+Seções README
+Selecione uma seção para editá-la
+1
+Cabeçalho
+1 ativo visual
+↑
+↓
+−
+2
+Mapa de calor
+Calendário de contribuições animadas
+↑
+↓
+−
+3
+GitHub Stats
+1 ativo visual
+↑
+↓
+−
+4
+Projetos
+1 ativo visual
+↑
+↓
+−
+5
+Conecte-se
+1 ativo visual
+↑
+↓
+−
++
+Sobre Mim
+1 ativo visual
+↑
+↓
++
++
+Habilidades
+1 ativo visual
+↑
+↓
++
++
+Streak
+Widget de sequência de contribuições
+↑
+↓
++
++
+Destaques
+Cartões de recursos de valor
+↑
+↓
++
+GitSkins - Lindos Widgets README do GitHub
+
+Feedback
+×
