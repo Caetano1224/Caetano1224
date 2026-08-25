@@ -4,11 +4,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caetano1224&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&ring_color=FFD700&locale=pt-br" height="165" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caetano1224&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFD700&text_color=FFFFFF&locale=pt-br" height="165" alt="Linguagens mais usadas" />
-</div>
-
 <br>
 
 <div align="center">
