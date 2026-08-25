@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Royal;CEO+e+Fundador+%7C+AproveVest;Fundador+da+Realtech;Construindo+o+futuro..." alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Caetano;CEO+e+Fundador+%7C+AproveVest;Fundador+da+Realtech;Construindo+o+futuro..." alt="Texto animado" />
 </div>
 
 <br>
