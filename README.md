@@ -1,27 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Royal;CEO+%26+Founder+%7C+AproveVest;Fundador+da+Realtech;Building+the+future..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Royal;CEO+e+Fundador+%7C+AproveVest;Fundador+da+Realtech;Construindo+o+futuro..." alt="Texto animado" />
 </div>
 
 <br>
 
-<!-- Spotify Now Playing -->
+<!-- Spotify tocando agora -->
 <div align="center">
-  <a href="https://open.spotify.com/user/SEU_USER_ID_AQUI" target="_blank">
-    <img src="https://spotify-github-profile.kittinan.net/api/view?uid=SEU_USER_ID_AQUI&cover_image=true&theme=default&show_offline=true&background_color=0D0D0D&interchange=false&bar_color=FFD700&bar_color_cover=false" alt="Spotify Now Playing" width="400" />
+  <a href="https://open.spotify.com/user/31cm7xkz777b5vfrlrhfgivo6vza" target="_blank">
+    <img src="https://spotify-github-profile.kittinan.net/api/view?uid=31cm7xkz777b5vfrlrhfgivo6vza&cover_image=true&theme=default&show_offline=true&background_color=0D0D0D&interchange=false&bar_color=FFD700&bar_color_cover=false" alt="Spotify tocando agora" width="400" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caetano1224&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&ring_color=FFD700&locale=pt-br" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caetano1224&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFD700&text_color=FFFFFF&locale=pt-br" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Caetano1224&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&ring_color=FFD700&locale=pt-br" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caetano1224&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFD700&text_color=FFFFFF&locale=pt-br" height="165" alt="Linguagens mais usadas" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Caetano1224&theme=dark&background=0D0D0D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=AAAAAA&sideNums=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Caetano1224&theme=dark&background=0D0D0D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=AAAAAA&sideNums=FFFFFF" alt="Sequência de contribuições" />
 </div>
 
 <br>
@@ -30,7 +30,7 @@
 
 ```diff
 + Fundador da Realtech — loja de tecnologia em Taubaté/SP
-+ CEO & Co-fundador da AproveVest — EdTech para vestibular e concursos
++ CEO e Co-fundador da AproveVest — plataforma educacional para vestibular e concursos
 + Estudante na ETEC Dr. Geraldo José Rodrigues Alckmin
 + Arch Linux (CachyOS) no dia a dia
 ```
@@ -40,7 +40,7 @@
 ### 🛠️ Stack Tecnológica
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,python,cs,postgres,vscode,git,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,python,cs,postgres,vscode,git,github,linux&theme=dark" alt="Stack tecnológica" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ### 📈 Atividade de Contribuição
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caetano1224&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=FFD700&line=FFD700&point=FFFFFF&area=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caetano1224&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=FFD700&line=FFD700&point=FFFFFF&area=true" width="100%" alt="Gráfico de contribuições" />
 </div>
 
 ---
@@ -68,36 +68,36 @@
 
 <p align="center">
   <a href="https://youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-0D0D0D?style=for-the-badge&logo=youtube&logoColor=FFD700" />
+    <img src="https://img.shields.io/badge/YouTube-0D0D0D?style=for-the-badge&logo=youtube&logoColor=FFD700" alt="YouTube" />
   </a>
   <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FFD700" />
+    <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FFD700" alt="Instagram" />
   </a>
   <a href="https://twitch.tv/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-0D0D0D?style=for-the-badge&logo=twitch&logoColor=FFD700" />
+    <img src="https://img.shields.io/badge/Twitch-0D0D0D?style=for-the-badge&logo=twitch&logoColor=FFD700" alt="Twitch" />
   </a>
   <a href="https://discord.gg/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-0D0D0D?style=for-the-badge&logo=discord&logoColor=FFD700" />
+    <img src="https://img.shields.io/badge/Discord-0D0D0D?style=for-the-badge&logo=discord&logoColor=FFD700" alt="Discord" />
   </a>
   <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FFD700" />
+    <img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn" />
   </a>
 </p>
 
 <br>
 
-<!-- Snake Animation (versão pública que funciona) -->
+<!-- Animação da cobra (versão pública que funciona) -->
 <div align="center">
-  <img data-importer="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img data-importer="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobra" />
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Caetano1224&style=for-the-badge&color=FFD700&label=Profile+Views&labelColor=0D0D0D" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Caetano1224&style=for-the-badge&color=FFD700&label=Visualiza%C3%A7%C3%B5es&labelColor=0D0D0D" alt="Visualizações do perfil" />
 </p>
 
 <p align="center">
